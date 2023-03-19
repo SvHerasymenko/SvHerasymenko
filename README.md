@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi everyone. I am a developer who mainly writes code in Python
+### Languages:
+![My Skills](https://skillicons.dev/icons?i=python,html,css)
+### Tools:
+![My Skills](https://skillicons.dev/icons?i=linux,vim,sqlite,mysql,postgresql,git,github,figma,stackoverflow,vscode,django)
