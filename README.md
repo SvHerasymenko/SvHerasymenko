@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Hi everyone. I am a developer who mainly writes code in Python
 ### Languages:
-![My Skills](https://skillicons.dev/icons?i=python,html,css)
+![My Skills](https://skillicons.dev/icons?i=python)
 ### Tools:
 ![My Skills](https://skillicons.dev/icons?i=linux,vim,sqlite,mysql,postgresql,git,github,figma,stackoverflow,vscode,django)
